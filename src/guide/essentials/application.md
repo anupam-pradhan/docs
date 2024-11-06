@@ -113,6 +113,8 @@ You are not limited to a single application instance on the same page. The `crea
 const app1 = createApp({
   /* ... */
 })
+
+Thank You!
 app1.mount('#container-1')
 
 const app2 = createApp({
